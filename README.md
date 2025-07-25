@@ -17,6 +17,8 @@ NodeTour CRM is a full-stack travel itinerary management application with role-b
 1. Clone the repository:
 
 git clone https://github.com/shajishali/nodeTourCRM.git
+
+
 2.Install backend dependencies:
 cd backend
 npm install
